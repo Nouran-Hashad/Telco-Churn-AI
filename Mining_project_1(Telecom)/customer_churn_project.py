@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════════════╗
-║                      TELCO CUSTOMER CHURN PREDICTION 
+║                      TELCO CUSTOMER CHURN PREDICTION                 ║
 ║                                                                      ║
 ║  This standalone script implements the full machine learning         ║
 ║  pipeline for predicting telecom customer churn, including:          ║
